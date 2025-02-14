@@ -1,6 +1,10 @@
 # Django Recipe Project  
 
+![Alt Text](Screenshot 2025-02-14 at 17.22.09.png)
+
+
 The **Django Recipe Project** is a web application that allows users to manage recipes with full CRUD (Create, Read, Update, Delete) functionality. Built with Django, it provides an intuitive interface to add, view, edit, and delete recipes.  
+
 
 ## Features  
 - Add new recipes with title, ingredients, and instructions  
